@@ -1,0 +1,5 @@
+package LibGo
+
+func Algo() {
+
+}
