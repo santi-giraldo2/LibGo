@@ -1,3 +1,3 @@
-module github.com/santi-giraldo2/Algo
+module github.com/santi-giraldo2/LibGo
 
 go 1.19
